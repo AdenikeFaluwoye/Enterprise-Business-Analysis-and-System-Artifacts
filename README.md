@@ -1,45 +1,14 @@
 # Enterprise Business Analysis & System Artifacts
+**Portfolio Owner:** Adenike Faluwoye,  Business Systems Analyst  
 
-## Executive Overview
-This repository serves as a centralized collection of technical business analysis specifications, system architecture designs, BPMN 2.0 process flows, and developer-ready agile delivery backlogs. 
-
-The artifacts documented here reflect end-to-end software development lifecycle (SDLC) delivery across core enterprise sectors—from executive stakeholder alignment and regulatory compliance frameworks to technical system interface specifications and acceptance criteria.
+Welcome to my enterprise Business Systems Analysis portfolio. Click on any project below to explore its complete specification artifacts, process models, API mappings, and requirements backlogs.
 
 ---
 
-## Business Transformation Initiatives
+## 📁 Portfolio Directory
 
-### 1. Digital Banking KYC & Identity Verification Modernization
-* **Domain:** Retail Banking & Fintech (*FINTRAC & OSFI Regulatory Framework*)
-* **Executive Summary:** Modernizing a legacy, 3-day manual account verification workflow by architecting an automated, real-time digital identity verification engine. 
-* **Technical & Functional Scope:** Third-party ID verification API integration, facial biometrics matching, automated sanction list screening, and compliance workflows.
-* **Key Artifacts:**
-  * [Business Case & Requirements](./Digital_Banking_KYC_Modernization/Business_Case_Requirements/)
-  * [BPMN 2.0 Process Flows](./Digital_Banking_KYC_Modernization/Process_Flows/)
-  * [REST API Specifications](./Digital_Banking_KYC_Modernization/API_Specs/)
-  * [Agile Backlog & User Stories](./Digital_Banking_KYC_Modernization/Agile_Backlog/)
-* **Status:** *Active Specification*
-
----
-
-### 2. Retail Omnichannel POS & Real-Time Inventory Integration
-* **Domain:** Commercial Retail & Enterprise Operations
-* **Executive Summary:** Eliminating stockout delays and multi-channel inventory discrepancy by integrating point-of-sale (POS) hardware with a centralized cloud inventory management system.
-* **Technical & Functional Scope:** Event-driven data flows, real-time stock-keeping unit (SKU) synchronization, exception handling protocols, and automated purchase order triggers.
-* **Status:** *Planned Specification*
-
----
-
-### 3. Enterprise SaaS Customer Portal & Automated Billing Integration
-* **Domain:** B2B Software & Financial Operations
-* **Executive Summary:** Designing an automated customer portal and recurring billing engine to replace manual spreadsheets, streamline subscription management, and eliminate revenue leakage.
-* **Technical & Functional Scope:** Functional Requirements Document (FRD), payment gateway API data mapping, subscription state diagrams, and prioritized user stories.
-* **Status:** *Planned Specification*
-
----
-
-## Methodology & Tooling
-* **Requirements Engineering:** Business Requirement Documents (BRD), Functional Specification Documents (FSD), User Stories (Gherkin syntax), Acceptance Criteria
-* **Process Modeling:** BPMN 2.0 (As-Is / To-Be process mapping), System Sequence Diagrams
-* **System Design:** RESTful API Mapping, Source-to-Target Data Mapping, JSON Payloads
-* **Tools & Frameworks:** Jira, Confluence, Draw.io, MS Excel, Git/GitHub
+| Project | Domain & Overview |
+| :--- | :--- |
+| [**1. Digital Banking KYC Modernization**](./1.%20Digital%20Banking%20KYC%20Modernization/) | Identity verification automation, FINTRAC regulatory compliance, REST API integrations, and risk routing. |
+| [**2. Retail Omnichannel POS Integration**](./2.%20Retail%20Omnichannel%20POS%20Integration/) | In-store POS terminal synchronization with cloud e-commerce inventory and central ledger engines. |
+| [**3. Enterprise SaaS Customer Portal & Billing**](./3.%20Enterprise%20SaaS%20Customer%20Portal%20%26%20Billing/) | Self-service subscription management, payment gateway orchestration, and automated billing workflows. |
